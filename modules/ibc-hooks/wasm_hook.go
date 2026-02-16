@@ -7,8 +7,8 @@ import (
 
 	wasmkeeper "github.com/CosmWasm/wasmd/x/wasm/keeper"
 	wasmtypes "github.com/CosmWasm/wasmd/x/wasm/types"
-	"github.com/cosmos/ibc-apps/modules/ibc-hooks/v10/keeper"
-	"github.com/cosmos/ibc-apps/modules/ibc-hooks/v10/types"
+	"github.com/cosmos/ibc-apps/modules/ibc-hooks/v8/keeper"
+	"github.com/cosmos/ibc-apps/modules/ibc-hooks/v8/types"
 
 	errors "cosmossdk.io/errors"
 	sdkmath "cosmossdk.io/math"
